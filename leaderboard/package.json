@@ -1,12 +1,11 @@
 {
-  "name": "pub-sub",
+  "name": "email-queue",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "api": "node src/api.js",
-    "subscribe": "node src/subscribe.js"
+    "dev": "node src/index.js"
   },
   "keywords": [],
   "author": "",
